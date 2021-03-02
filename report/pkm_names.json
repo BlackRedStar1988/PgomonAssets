@@ -1508,8 +1508,8 @@
         "found_egg": false,
         "found_evolution": false,
         "found_raid": false,
-        "found_research": true,
-        "found_wild": true,
+        "found_research": false,
+        "found_wild": false,
         "id": 165,
         "name": "Ledyba"
     },
