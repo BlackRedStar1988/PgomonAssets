@@ -1597,7 +1597,7 @@
         "name_de": "Lapras",
         "name_en": "Lapras"
     },
-    "131": {
+    "132": {
         "found_egg": true,
         "found_evolution": true,
         "found_raid": true,
@@ -1605,7 +1605,7 @@
         "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
-        "id": 131,
+        "id": 132,
         "name_de": "Ditto",
         "name_en": "Ditto"
     },
@@ -2802,7 +2802,7 @@
         "name_de": "Phanpy",
         "name_en": "Phanpy"
     },
-    "231": {
+    "232": {
         "found_egg": false,
         "found_evolution": false,
         "found_raid": false,
