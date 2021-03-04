@@ -2715,11 +2715,11 @@
         "name": "Azurill"
     },
     "299": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "id": 299,
         "name": "Nasgnet"
     },
@@ -4309,7 +4309,7 @@
     },
     "476": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
