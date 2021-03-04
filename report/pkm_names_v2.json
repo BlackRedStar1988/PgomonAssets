@@ -8,7 +8,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 1,
-        "name_de": "Bisasam"
+        "name_de": "Bisasam",
+		"name": "Bulbasaur"
     },
     "2": {
         "found_egg": true,
@@ -19,7 +20,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 2,
-        "name_de": "Bisaknosp"
+        "name_de": "Bisaknosp",
+        "name": "Ivysaur"
     },
     "3": {
         "found_egg": true,
@@ -30,7 +32,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 3,
-        "name_de": "Bisaflor"
+        "name_de": "Bisaflor",
+        "name": "Venusaur"
     },
     "4": {
         "found_egg": true,
@@ -41,7 +44,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 4,
-        "name_de": "Glumanda"
+        "name_de": "Glumanda",
+        "name": "Charmander"
     },
     "5": {
         "found_egg": true,
@@ -52,7 +56,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 5,
-        "name_de": "Glutexo"
+        "name_de": "Glutexo",
+        "name": "Charmeleon"
     },
     "6": {
         "found_egg": true,
@@ -63,7 +68,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 6,
-        "name_de": "Glurak"
+        "name_de": "Glurak",
+        "name": "Charizard"
     },
     "7": {
         "found_egg": true,
@@ -74,7 +80,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 7,
-        "name_de": "Schiggy"
+        "name_de": "Schiggy",
+        "name": "Squirtle"
     },
     "8": {
         "found_egg": true,
@@ -85,7 +92,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 8,
-        "name_de": "Schillok"
+        "name_de": "Schillok",
+        "name": "Wartortle"
     },
     "9": {
         "found_egg": true,
@@ -96,7 +104,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 9,
-        "name_de": "Turtok"
+        "name_de": "Turtok",
+        "name": "Blastoise"
     },
     "10": {
         "found_egg": true,
@@ -107,7 +116,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 10,
-        "name_de": "Raupy"
+        "name_de": "Raupy",
+        "name": "Caterpie"
     },
     "11": {
         "found_egg": true,
@@ -118,7 +128,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 11,
-        "name_de": "Safcon"
+        "name_de": "Safcon",
+        "name": "Metapod"
     },
     "12": {
         "found_egg": true,
@@ -129,7 +140,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 12,
-        "name_de": "Smettbo"
+        "name_de": "Smettbo",
+        "name": "Butterfree"
     },
     "13": {
         "found_egg": true,
@@ -140,7 +152,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 13,
-        "name_de": "Hornliu"
+        "name_de": "Hornliu",
+        "name": "Weedle"
     },
     "14": {
         "found_egg": true,
@@ -151,7 +164,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 14,
-        "name_de": "Kokuna"
+        "name_de": "Kokuna",
+        "name": "Kakuna"
     },
     "15": {
         "found_egg": true,
@@ -162,7 +176,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 15,
-        "name_de": "Bibor"
+        "name_de": "Bibor",
+        "name": "Beedrill"
     },
     "16": {
         "found_egg": true,
@@ -173,7 +188,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 16,
-        "name_de": "Taubsi"
+        "name_de": "Taubsi",
+        "name": "Pidgey"
     },
     "17": {
         "found_egg": true,
@@ -184,7 +200,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 17,
-        "name_de": "Tauboga"
+        "name_de": "Tauboga",
+        "name": "Pidgeotto"
     },
     "18": {
         "found_egg": true,
@@ -195,7 +212,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 18,
-        "name_de": "Tauboss"
+        "name_de": "Tauboss",
+        "name": "Pidgeot"
     },
     "19": {
         "alolan_shiny": true,
@@ -207,7 +225,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 19,
-        "name_de": "Rattfratz"
+        "name_de": "Rattfratz",
+        "name": "Rattata"
     },
     "20": {
         "alolan_shiny": true,
@@ -219,7 +238,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 20,
-        "name_de": "Rattikarl"
+        "name_de": "Rattikarl",
+        "name": "Raticate"
     },
     "21": {
         "found_egg": true,
@@ -230,7 +250,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 21,
-        "name_de": "Habitak"
+        "name_de": "Habitak",
+        "name": "Spearow"
     },
     "22": {
         "found_egg": true,
@@ -241,7 +262,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 22,
-        "name_de": "Ibitak"
+        "name_de": "Ibitak",
+        "name": "Fearow"
     },
     "23": {
         "found_egg": true,
@@ -252,7 +274,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 23,
-        "name_de": "Rettan"
+        "name_de": "Rettan",
+        "name": "Ekans"
     },
     "24": {
         "found_egg": true,
@@ -263,7 +286,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 24,
-        "name_de": "Arbok"
+        "name_de": "Arbok",
+        "name": "Arbok"
     },
     "25": {
         "found_egg": true,
@@ -274,7 +298,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 25,
-        "name_de": "Pikachu"
+        "name_de": "Pikachu",
+        "name": "Pikachu"
     },
     "26": {
         "alolan_shiny": true,
@@ -286,7 +311,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 26,
-        "name_de": "Raichu"
+        "name_de": "Raichu",
+        "name": "Raichu"
     },
     "27": {
         "alolan_shiny": true,
@@ -298,7 +324,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 27,
-        "name_de": "Sandan"
+        "name_de": "Sandan",
+        "name": "Sandshrew"
     },
     "28": {
         "alolan_shiny": true,
@@ -310,7 +337,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 28,
-        "name_de": "Sandamer"
+        "name_de": "Sandamer",
+        "name": "Sandslash"
     },
     "29": {
         "found_egg": true,
@@ -321,7 +349,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 29,
-        "name_de": "Nidoran♀"
+        "name_de": "Nidoran♀",
+        "name": "Nidoran♀"
     },
     "30": {
         "found_egg": true,
@@ -332,7 +361,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 30,
-        "name_de": "Nidorina"
+        "name_de": "Nidorina",
+        "name": "Nidorina"
     },
     "31": {
         "found_egg": true,
@@ -343,7 +373,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 31,
-        "name_de": "Nidoqueen"
+        "name_de": "Nidoqueen",
+        "name": "Nidoqueen"
     },
     "32": {
         "found_egg": true,
@@ -354,7 +385,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 32,
-        "name_de": "Nidoran♂"
+        "name_de": "Nidoran♂",
+        "name": "Nidoran♂"
     },
     "33": {
         "found_egg": true,
@@ -365,7 +397,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 33,
-        "name_de": "Nidorino"
+        "name_de": "Nidorino",
+        "name": "Nidorino"
     },
     "34": {
         "found_egg": true,
@@ -376,7 +409,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 34,
-        "name_de": "Nidoking"
+        "name_de": "Nidoking",
+        "name": "Nidoking"
     },
     "35": {
         "found_egg": true,
@@ -387,7 +421,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 35,
-        "name_de": "Piepi"
+        "name_de": "Piepi",
+        "name": "Clefairy"
     },
     "36": {
         "found_egg": true,
@@ -398,7 +433,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 36,
-        "name_de": "Pixi"
+        "name_de": "Pixi",
+        "name": "Clefable"
     },
     "37": {
         "alolan_shiny": true,
@@ -410,7 +446,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 37,
-        "name_de": "Vulpix"
+        "name_de": "Vulpix",
+        "name": "Vulpix"
     },
     "38": {
         "alolan_shiny": true,
@@ -422,7 +459,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 38,
-        "name_de": "Vulnona"
+        "name_de": "Vulnona",
+        "name": "Ninetales"
     },
     "39": {
         "found_egg": true,
@@ -433,7 +471,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 39,
-        "name_de": "Pummeluff"
+        "name_de": "Pummeluff",
+        "name": "Jigglypuff"
     },
     "40": {
         "found_egg": true,
@@ -444,7 +483,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 40,
-        "name_de": "Knuddeluff"
+        "name_de": "Knuddeluff",
+        "name": "Wigglytuff"
     },
     "41": {
         "found_egg": true,
@@ -455,7 +495,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 41,
-        "name_de": "Zubat"
+        "name_de": "Zubat",
+        "name": "Zubat"
     },
     "42": {
         "found_egg": true,
@@ -466,7 +507,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 42,
-        "name_de": "Golbat"
+        "name_de": "Golbat",
+        "name": "Golbat"
     },
     "43": {
         "found_egg": true,
@@ -477,7 +519,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 43,
-        "name_de": "Myrapla"
+        "name_de": "Myrapla",
+        "name": "Oddish"
     },
     "44": {
         "found_egg": true,
@@ -488,7 +531,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 44,
-        "name_de": "Duflor"
+        "name_de": "Duflor",
+        "name": "Gloom"
     },
     "45": {
         "found_egg": true,
@@ -499,7 +543,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 45,
-        "name_de": "Giflor"
+        "name_de": "Giflor",
+        "name": "Vileplume"
     },
     "46": {
         "found_egg": true,
@@ -510,7 +555,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 46,
-        "name_de": "Paras"
+        "name_de": "Paras",
+        "name": "Paras"
     },
     "47": {
         "found_egg": true,
@@ -521,7 +567,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 47,
-        "name_de": "Parasek"
+        "name_de": "Parasek",
+        "name": "Parasect"
     },
     "48": {
         "found_egg": true,
@@ -532,7 +579,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 48,
-        "name_de": "Bluzuk"
+        "name_de": "Bluzuk",
+        "name": "Venonat"
     },
     "49": {
         "found_egg": true,
@@ -543,7 +591,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 49,
-        "name_de": "Omot"
+        "name_de": "Omot",
+        "name": "Venomoth"
     },
     "50": {
         "alolan_shiny": true,
@@ -555,7 +604,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 50,
-        "name_de": "Digda"
+        "name_de": "Digda",
+        "name": "Diglett"
     },
     "51": {
         "alolan_shiny": true,
@@ -567,7 +617,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 51,
-        "name_de": "Digdri"
+        "name_de": "Digdri",
+        "name": "Dugtrio"
     },
     "52": {
         "alolan_shiny": true,
@@ -580,7 +631,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 52,
-        "name_de": "Mauzi"
+        "name_de": "Mauzi",
+        "name": "Meowth"
     },
     "53": {
         "alolan_shiny": true,
@@ -592,7 +644,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 53,
-        "name_de": "Snobilikat"
+        "name_de": "Snobilikat",
+        "name": "Persian"
     },
     "54": {
         "found_egg": true,
@@ -603,7 +656,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 54,
-        "name_de": "Enton"
+        "name_de": "Enton",
+        "name": "Psyduck"
     },
     "55": {
         "found_egg": true,
@@ -614,7 +668,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 55,
-        "name_de": "Entoron"
+        "name_de": "Entoron",
+        "name": "Golduck"
     },
     "56": {
         "found_egg": true,
@@ -625,7 +680,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 56,
-        "name_de": "Menki"
+        "name_de": "Menki",
+        "name": "Mankey"
     },
     "57": {
         "found_egg": true,
@@ -636,7 +692,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 57,
-        "name_de": "Rasaff"
+        "name_de": "Rasaff",
+        "name": "Primeape"
     },
     "58": {
         "found_egg": true,
@@ -647,7 +704,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 58,
-        "name_de": "Fukano"
+        "name_de": "Fukano",
+        "name": "Growlithe"
     },
     "59": {
         "found_egg": true,
@@ -658,7 +716,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 59,
-        "name_de": "Arkani"
+        "name_de": "Arkani",
+        "name": "Arcanine"
     },
     "60": {
         "found_egg": true,
@@ -669,7 +728,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 60,
-        "name_de": "Quapsel"
+        "name_de": "Quapsel",
+        "name": "Poliwag"
     },
     "61": {
         "found_egg": true,
@@ -680,7 +740,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 61,
-        "name_de": "Quaputzi"
+        "name_de": "Quaputzi",
+        "name": "Poliwhirl"
     },
     "62": {
         "found_egg": true,
@@ -691,7 +752,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 62,
-        "name_de": "Quappo"
+        "name_de": "Quappo",
+        "name": "Poliwrath"
     },
     "63": {
         "found_egg": true,
@@ -702,7 +764,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 63,
-        "name_de": "Abra"
+        "name_de": "Abra",
+        "name": "Abra"
     },
     "64": {
         "found_egg": true,
@@ -713,7 +776,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 64,
-        "name_de": "Kadabra"
+        "name_de": "Kadabra",
+        "name": "Kadabra"
     },
     "65": {
         "found_egg": true,
@@ -724,7 +788,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 65,
-        "name_de": "Simsala"
+        "name_de": "Simsala",
+        "name": "Alakazam"
     },
     "66": {
         "found_egg": true,
@@ -735,7 +800,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 66,
-        "name_de": "Machollo"
+        "name_de": "Machollo",
+        "name": "Machop"
     },
     "67": {
         "found_egg": true,
@@ -746,7 +812,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 67,
-        "name_de": "Maschock"
+        "name_de": "Maschock",
+        "name": "Machoke"
     },
     "68": {
         "found_egg": true,
@@ -757,7 +824,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 68,
-        "name_de": "Machomei"
+        "name_de": "Machomei",
+        "name": "Machamp"
     },
     "69": {
         "found_egg": true,
@@ -768,7 +836,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 69,
-        "name_de": "Knofensa"
+        "name_de": "Knofensa",
+        "name": "Bellsprout"
     },
     "70": {
         "found_egg": true,
@@ -779,7 +848,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 70,
-        "name_de": "Ultrigaria"
+        "name_de": "Ultrigaria",
+        "name": "Weepinbell"
     },
     "71": {
         "found_egg": true,
@@ -790,7 +860,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 71,
-        "name_de": "Sarzenia"
+        "name_de": "Sarzenia",
+        "name": "Victreebel"
     },
     "72": {
         "found_egg": true,
@@ -801,7 +872,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 72,
-        "name_de": "Tentacha"
+        "name_de": "Tentacha",
+        "name": "Tentacool"
     },
     "73": {
         "found_egg": true,
@@ -812,7 +884,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 73,
-        "name_de": "Tentoxa"
+        "name_de": "Tentoxa",
+        "name": "Tentacruel"
     },
     "74": {
         "alolan_shiny": true,
@@ -824,7 +897,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 74,
-        "name_de": "Kleinstein"
+        "name_de": "Kleinstein",
+        "name": "Geodude"
     },
     "75": {
         "alolan_shiny": true,
@@ -836,7 +910,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 75,
-        "name_de": "Georok"
+        "name_de": "Georok",
+        "name": "Graveler"
     },
     "76": {
         "alolan_shiny": true,
@@ -848,7 +923,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 76,
-        "name_de": "Geowaz"
+        "name_de": "Geowaz",
+        "name": "Golem"
     },
     "77": {
         "galan_shiny": false,
@@ -860,7 +936,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 77,
-        "name_de": "Ponita"
+        "name_de": "Ponita",
+        "name": "Ponyta"
     },
     "78": {
         "galan_shiny": false,
@@ -872,7 +949,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 78,
-        "name_de": "Gallopa"
+        "name_de": "Gallopa",
+        "name": "Rapidash"
     },
     "79": {
         "galan_shiny": false,
@@ -884,7 +962,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 79,
-        "name_de": "Flegmon"
+        "name_de": "Flegmon",
+        "name": "Slowpoke"
     },
     "80": {
         "galan_shiny": false,
@@ -896,7 +975,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 80,
-        "name_de": "Lahmus"
+        "name_de": "Lahmus",
+        "name": "Slowbro"
     },
     "81": {
         "found_egg": true,
@@ -907,7 +987,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 81,
-        "name_de": "Magnetilo"
+        "name_de": "Magnetilo",
+        "name": "Magnemite"
     },
     "82": {
         "found_egg": true,
@@ -918,7 +999,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 82,
-        "name_de": "Magneton"
+        "name_de": "Magneton",
+        "name": "Magneton"
     },
     "83": {
         "galan_shiny": false,
@@ -930,7 +1012,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 83,
-        "name_de": "Porenta"
+        "name_de": "Porenta",
+        "name": "Farfetch’d"
     },
     "84": {
         "found_egg": true,
@@ -941,7 +1024,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 84,
-        "name_de": "Dodu"
+        "name_de": "Dodu",
+        "name": "Doduo"
     },
     "85": {
         "found_egg": true,
@@ -952,7 +1036,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 85,
-        "name_de": "Dodri"
+        "name_de": "Dodri",
+        "name": "Dodrio"
     },
     "86": {
         "found_egg": true,
@@ -963,7 +1048,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 86,
-        "name_de": "Jurob"
+        "name_de": "Jurob",
+        "name": "Seel"
     },
     "87": {
         "found_egg": true,
@@ -974,7 +1060,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 87,
-        "name_de": "Jugong"
+        "name_de": "Jugong",
+        "name": "Dewgong"
     },
     "88": {
         "alolan_shiny": true,
@@ -986,7 +1073,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 88,
-        "name_de": "Sleima"
+        "name_de": "Sleima",
+        "name": "Grimer"
     },
     "89": {
         "alolan_shiny": true,
@@ -998,7 +1086,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 89,
-        "name_de": "Sleimok"
+        "name_de": "Sleimok",
+        "name": "Muk"
     },
     "90": {
         "found_egg": true,
@@ -1009,7 +1098,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 90,
-        "name_de": "Muschas"
+        "name_de": "Muschas",
+        "name": "Shellder"
     },
     "91": {
         "found_egg": true,
@@ -1020,7 +1110,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 91,
-        "name_de": "Austos"
+        "name_de": "Austos",
+        "name": "Cloyster"
     },
     "92": {
         "found_egg": true,
@@ -1031,7 +1122,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 92,
-        "name_de": "Nebulak"
+        "name_de": "Nebulak",
+        "name": "Gastly"
     },
     "93": {
         "found_egg": true,
@@ -1042,7 +1134,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 93,
-        "name_de": "Alpollo"
+        "name_de": "Alpollo",
+        "name": "Haunter"
     },
     "94": {
         "found_egg": true,
@@ -1053,7 +1146,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 94,
-        "name_de": "Gengar"
+        "name_de": "Gengar",
+        "name": "Gengar"
     },
     "95": {
         "found_egg": true,
@@ -1064,7 +1158,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 95,
-        "name_de": "Onix"
+        "name_de": "Onix",
+        "name": "Onix"
     },
     "96": {
         "found_egg": true,
@@ -1075,7 +1170,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 96,
-        "name_de": "Traumato"
+        "name_de": "Traumato",
+        "name": "Drowzee"
     },
     "97": {
         "found_egg": true,
@@ -1086,7 +1182,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 97,
-        "name_de": "Hypno"
+        "name_de": "Hypno",
+        "name": "Hypno"
     },
     "98": {
         "found_egg": true,
@@ -1097,7 +1194,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 98,
-        "name_de": "Krabby"
+        "name_de": "Krabby",
+        "name": "Krabby"
     },
     "99": {
         "found_egg": true,
@@ -1108,7 +1206,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 99,
-        "name_de": "Kingler"
+        "name_de": "Kingler",
+        "name": "Kingler"
     },
     "100": {
         "found_egg": true,
@@ -1119,7 +1218,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 100,
-        "name_de": "Voltobal"
+        "name_de": "Voltobal",
+        "name": "Voltorb"
     },
     "101": {
         "found_egg": true,
@@ -1130,7 +1230,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 101,
-        "name_de": "Lektrobal"
+        "name_de": "Lektrobal",
+        "name": "Electrode"
     },
     "102": {
         "found_egg": true,
@@ -1141,7 +1242,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 102,
-        "name_de": "Owei"
+        "name_de": "Owei",
+        "name": "Exeggcute"
     },
     "103": {
         "alolan_shiny": true,
@@ -1153,7 +1255,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 103,
-        "name_de": "Kokowei"
+        "name_de": "Kokowei",
+        "name": "Exeggutor"
     },
     "104": {
         "found_egg": true,
@@ -1164,7 +1267,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 104,
-        "name_de": "Tragosso"
+        "name_de": "Tragosso",
+        "name": "Cubone"
     },
     "105": {
         "alolan_shiny": true,
@@ -1176,7 +1280,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 105,
-        "name_de": "Knogga"
+        "name_de": "Knogga",
+        "name": "Marowak"
     },
     "106": {
         "found_egg": true,
@@ -1187,7 +1292,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 106,
-        "name_de": "Kicklee"
+        "name_de": "Kicklee",
+        "name": "Hitmonlee"
     },
     "107": {
         "found_egg": true,
@@ -1198,7 +1304,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 107,
-        "name_de": "Nockchan"
+        "name_de": "Nockchan",
+        "name": "Hitmonchan"
     },
     "108": {
         "found_egg": true,
@@ -1209,7 +1316,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 108,
-        "name_de": "Schlurp"
+        "name_de": "Schlurp",
+        "name": "Lickitung"
     },
     "109": {
         "found_egg": true,
@@ -1220,7 +1328,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 109,
-        "name_de": "Smogon"
+        "name_de": "Smogon",
+        "name": "Koffing"
     },
     "110": {
         "galan_shiny": false,
@@ -1232,7 +1341,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 110,
-        "name_de": "Smogmog"
+        "name_de": "Smogmog",
+        "name": "Weezing"
     },
     "111": {
         "found_egg": true,
@@ -1243,7 +1353,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 111,
-        "name_de": "Rihorn"
+        "name_de": "Rihorn",
+        "name": "Rhyhorn"
     },
     "112": {
         "found_egg": true,
@@ -1254,7 +1365,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 112,
-        "name_de": "Rizeros"
+        "name_de": "Rizeros",
+        "name": "Rhydon"
     },
     "113": {
         "found_egg": true,
@@ -1265,7 +1377,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 113,
-        "name_de": "Chaneira"
+        "name_de": "Chaneira",
+        "name": "Chansey"
     },
     "114": {
         "found_egg": true,
@@ -1276,7 +1389,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 114,
-        "name_de": "Tangela"
+        "name_de": "Tangela",
+        "name": "Tangela"
     },
     "115": {
         "found_egg": true,
@@ -1287,7 +1401,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 115,
-        "name_de": "Kangama"
+        "name_de": "Kangama",
+        "name": "Kangaskhan"
     },
     "116": {
         "found_egg": true,
@@ -1298,7 +1413,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 116,
-        "name_de": "Seeper"
+        "name_de": "Seeper",
+        "name": "Horsea"
     },
     "117": {
         "found_egg": true,
@@ -1309,7 +1425,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 117,
-        "name_de": "Seemon"
+        "name_de": "Seemon",
+        "name": "Seadra"
     },
     "118": {
         "found_egg": true,
@@ -1320,7 +1437,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 118,
-        "name_de": "Goldini"
+        "name_de": "Goldini",
+        "name": "Goldeen"
     },
     "119": {
         "found_egg": true,
@@ -1331,7 +1449,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 119,
-        "name_de": "Golking"
+        "name_de": "Golking",
+        "name": "Seaking"
     },
     "120": {
         "found_egg": true,
@@ -1342,7 +1461,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 120,
-        "name_de": "Sterndu"
+        "name_de": "Sterndu",
+        "name": "Staryu"
     },
     "121": {
         "found_egg": true,
@@ -1353,7 +1473,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 121,
-        "name_de": "Starmie"
+        "name_de": "Starmie",
+        "name": "Starmie"
     },
     "122": {
         "galan_shiny": false,
@@ -1365,7 +1486,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 122,
-        "name_de": "Pantimos"
+        "name_de": "Pantimos",
+        "name": "Mr. Mime"
     },
     "123": {
         "found_egg": true,
@@ -1376,7 +1498,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 123,
-        "name_de": "Sichlor"
+        "name_de": "Sichlor",
+        "name": "Scyther"
     },
     "124": {
         "found_egg": true,
@@ -1387,7 +1510,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 124,
-        "name_de": "Rossana"
+        "name_de": "Rossana",
+        "name": "Jynx"
     },
     "125": {
         "found_egg": true,
@@ -1398,7 +1522,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 125,
-        "name_de": "Elektek"
+        "name_de": "Elektek",
+        "name": "Electabuzz"
     },
     "126": {
         "found_egg": true,
@@ -1409,7 +1534,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 126,
-        "name_de": "Magmar"
+        "name_de": "Magmar",
+        "name": "Magmar"
     },
     "127": {
         "found_egg": true,
@@ -1420,7 +1546,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 127,
-        "name_de": "Pinsir"
+        "name_de": "Pinsir",
+        "name": "Pinsir"
     },
     "128": {
         "found_egg": true,
@@ -1431,7 +1558,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 128,
-        "name_de": "Tauros"
+        "name_de": "Tauros",
+        "name": "Tauros"
     },
     "129": {
         "found_egg": true,
@@ -1442,7 +1570,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 129,
-        "name_de": "Karpador"
+        "name_de": "Karpador",
+        "name": "Magikarp"
     },
     "130": {
         "found_egg": true,
@@ -1453,7 +1582,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 130,
-        "name_de": "Garados"
+        "name_de": "Garados",
+        "name": "Gyarados"
     },
     "131": {
         "found_egg": true,
@@ -1464,7 +1594,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 131,
-        "name_de": "Lapras"
+        "name_de": "Lapras",
+        "name": "Lapras"
     },
     "131": {
         "found_egg": true,
@@ -1475,7 +1606,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 131,
-        "name_de": "Ditto"
+        "name_de": "Ditto",
+        "name": "Ditto"
     },
     "133": {
         "found_egg": true,
@@ -1486,7 +1618,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 133,
-        "name_de": "Evoli"
+        "name_de": "Evoli",
+        "name": "Eevee"
     },
     "134": {
         "found_egg": true,
@@ -1497,7 +1630,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 134,
-        "name_de": "Aquana"
+        "name_de": "Aquana",
+        "name": "Vaporeon"
     },
     "135": {
         "found_egg": true,
@@ -1508,7 +1642,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 135,
-        "name_de": "Blitza"
+        "name_de": "Blitza",
+        "name": "Jolteon"
     },
     "136": {
         "found_egg": true,
@@ -1519,7 +1654,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 136,
-        "name_de": "Flamara"
+        "name_de": "Flamara",
+        "name": "Flareon"
     },
     "137": {
         "found_egg": true,
@@ -1530,7 +1666,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 137,
-        "name_de": "Porygon"
+        "name_de": "Porygon",
+        "name": "Porygon"
     },
     "138": {
         "found_egg": true,
@@ -1541,7 +1678,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 138,
-        "name_de": "Amonitas"
+        "name_de": "Amonitas",
+        "name": "Omanyte"
     },
     "139": {
         "found_egg": true,
@@ -1552,7 +1690,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 139,
-        "name_de": "Amoroso"
+        "name_de": "Amoroso",
+        "name": "Omastar"
     },
     "140": {
         "found_egg": true,
@@ -1563,7 +1702,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 140,
-        "name_de": "Kabuto"
+        "name_de": "Kabuto",
+        "name": "Kabuto"
     },
     "141": {
         "found_egg": true,
@@ -1574,7 +1714,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 141,
-        "name_de": "Kabutops"
+        "name_de": "Kabutops",
+        "name": "Kabutops"
     },
     "142": {
         "found_egg": true,
@@ -1585,7 +1726,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 142,
-        "name_de": "Aerodactyl"
+        "name_de": "Aerodactyl",
+        "name": "Aerodactyl"
     },
     "143": {
         "found_egg": true,
@@ -1596,7 +1738,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 143,
-        "name_de": "Relaxo"
+        "name_de": "Relaxo",
+        "name": "Snorlax"
     },
     "144": {
         "galan_shiny": false,
@@ -1608,7 +1751,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 144,
-        "name_de": "Arktos"
+        "name_de": "Arktos",
+        "name": "Articuno"
     },
     "145": {
         "galan_shiny": false,
@@ -1620,7 +1764,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 145,
-        "name_de": "Zapdos"
+        "name_de": "Zapdos",
+        "name": "Zapdos"
     },
     "146": {
         "galan_shiny": false,
@@ -1632,7 +1777,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 146,
-        "name_de": "Lavados"
+        "name_de": "Lavados",
+        "name": "Moltres"
     },
     "147": {
         "found_egg": true,
@@ -1643,7 +1789,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 147,
-        "name_de": "Dratini"
+        "name_de": "Dratini",
+        "name": "Dratini"
     },
     "148": {
         "found_egg": true,
@@ -1654,7 +1801,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 148,
-        "name_de": "Dragonir"
+        "name_de": "Dragonir",
+        "name": "Dragonair"
     },
     "149": {
         "found_egg": true,
@@ -1665,7 +1813,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 149,
-        "name_de": "Dragoran"
+        "name_de": "Dragoran",
+        "name": "Dragonite"
     },
     "150": {
         "found_egg": true,
@@ -1676,7 +1825,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 150,
-        "name_de": "Mewtu"
+        "name_de": "Mewtu",
+        "name": "Mewtwo"
     },
     "151": {
         "found_egg": true,
@@ -1687,7 +1837,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 151,
-        "name_de": "Mew"
+        "name_de": "Mew",
+        "name": "Mew"
     },
     "152": {
         "found_egg": true,
@@ -1698,7 +1849,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 152,
-        "name_de": "Endivie"
+        "name_de": "Endivie",
+        "name": "Chikorita"
     },
     "153": {
         "found_egg": false,
@@ -1709,7 +1861,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 153,
-        "name_de": "Lorblatt"
+        "name_de": "Lorblatt",
+        "name": "Bayleef"
     },
     "154": {
         "found_egg": false,
@@ -1720,7 +1873,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 154,
-        "name_de": "Meganie"
+        "name_de": "Meganie",
+        "name": "Meganium"
     },
     "155": {
         "found_egg": true,
@@ -1731,7 +1885,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 155,
-        "name_de": "Feurigel"
+        "name_de": "Feurigel",
+        "name": "Cyndaquil"
     },
     "156": {
         "found_egg": false,
@@ -1742,7 +1897,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 156,
-        "name_de": "Igelavar"
+        "name_de": "Igelavar",
+        "name": "Quilava"
     },
     "157": {
         "found_egg": false,
@@ -1753,7 +1909,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 157,
-        "name_de": "Tornupto"
+        "name_de": "Tornupto",
+        "name": "Typhlosion"
     },
     "158": {
         "found_egg": true,
@@ -1764,7 +1921,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 158,
-        "name_de": "Karnimani"
+        "name_de": "Karnimani",
+        "name": "Totodile"
     },
     "159": {
         "found_egg": false,
@@ -1775,7 +1933,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 159,
-        "name_de": "Tyracroc"
+        "name_de": "Tyracroc",
+        "name": "Croconaw"
     },
     "160": {
         "found_egg": false,
@@ -1786,7 +1945,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 160,
-        "name_de": "Impergator"
+        "name_de": "Impergator",
+        "name": "Feraligatr"
     },
     "161": {
         "found_egg": false,
@@ -1797,7 +1957,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 161,
-        "name_de": "Wiesor"
+        "name_de": "Wiesor",
+        "name": "Sentret"
     },
     "162": {
         "found_egg": false,
@@ -1808,7 +1969,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 162,
-        "name_de": "Wiesenior"
+        "name_de": "Wiesenior",
+        "name": "Furret"
     },
     "163": {
         "found_egg": false,
@@ -1819,7 +1981,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 163,
-        "name_de": "Hoothoot"
+        "name_de": "Hoothoot",
+        "name": "Hoothoot"
     },
     "164": {
         "found_egg": false,
@@ -1830,7 +1993,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 164,
-        "name_de": "Noctuh"
+        "name_de": "Noctuh",
+        "name": "Noctowl"
     },
     "165": {
         "found_egg": false,
@@ -1841,7 +2005,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 165,
-        "name_de": "Ledyba"
+        "name_de": "Ledyba",
+        "name": "Ledyba"
     },
     "166": {
         "found_egg": false,
@@ -1852,7 +2017,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 166,
-        "name_de": "Ledian"
+        "name_de": "Ledian",
+        "name": "Ledian"
     },
     "167": {
         "found_egg": false,
@@ -1863,7 +2029,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 167,
-        "name_de": "Webarak"
+        "name_de": "Webarak",
+        "name": "Spinarak"
     },
     "168": {
         "found_egg": false,
@@ -1874,7 +2041,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 168,
-        "name_de": "Ariados"
+        "name_de": "Ariados",
+        "name": "Ariados"
     },
     "169": {
         "found_egg": false,
@@ -1885,7 +2053,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 169,
-        "name_de": "Iksbat"
+        "name_de": "Iksbat",
+        "name": "Crobat"
     },
     "170": {
         "found_egg": false,
@@ -1896,7 +2065,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 170,
-        "name_de": "Lampi"
+        "name_de": "Lampi",
+        "name": "Chinchou"
     },
     "171": {
         "found_egg": false,
@@ -1907,7 +2077,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 171,
-        "name_de": "Lanturn"
+        "name_de": "Lanturn",
+        "name": "Lanturn"
     },
     "172": {
         "found_egg": true,
@@ -1918,7 +2089,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 172,
-        "name_de": "Pichu"
+        "name_de": "Pichu",
+        "name": "Pichu"
     },
     "173": {
         "found_egg": true,
@@ -1929,7 +2101,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 173,
-        "name_de": "Pii"
+        "name_de": "Pii",
+        "name": "Cleffa"
     },
     "174": {
         "found_egg": true,
@@ -1940,7 +2113,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 174,
-        "name_de": "Fluffeluff"
+        "name_de": "Fluffeluff",
+        "name": "Igglybuff"
     },
     "175": {
         "found_egg": true,
@@ -1951,7 +2125,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 175,
-        "name_de": "Togepi"
+        "name_de": "Togepi",
+        "name": "Togepi"
     },
     "176": {
         "found_egg": false,
@@ -1962,7 +2137,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 176,
-        "name_de": "Togetic"
+        "name_de": "Togetic",
+        "name": "Togetic"
     },
     "177": {
         "found_egg": true,
@@ -1973,7 +2149,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 177,
-        "name_de": "Natu"
+        "name_de": "Natu",
+        "name": "Natu"
     },
     "178": {
         "found_egg": false,
@@ -1984,7 +2161,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 178,
-        "name_de": "Xatu"
+        "name_de": "Xatu",
+        "name": "Xatu"
     },
     "179": {
         "found_egg": true,
@@ -1995,7 +2173,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 179,
-        "name_de": "Voltilamm"
+        "name_de": "Voltilamm",
+        "name": "Mareep"
     },
     "180": {
         "found_egg": false,
@@ -2006,7 +2185,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 180,
-        "name_de": "Waaty"
+        "name_de": "Waaty",
+        "name": "Flaaffy"
     },
     "181": {
         "found_egg": false,
@@ -2017,7 +2197,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 181,
-        "name_de": "Ampharos"
+        "name_de": "Ampharos",
+        "name": "Ampharos"
     },
     "182": {
         "found_egg": false,
@@ -2028,7 +2209,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 182,
-        "name_de": "Blubella"
+        "name_de": "Blubella",
+        "name": "Bellossom"
     },
     "183": {
         "found_egg": false,
@@ -2039,7 +2221,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 183,
-        "name_de": "Marill"
+        "name_de": "Marill",
+        "name": "Marill"
     },
     "184": {
         "found_egg": false,
@@ -2050,7 +2233,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 184,
-        "name_de": "Azumarill"
+        "name_de": "Azumarill",
+        "name": "Azumarill"
     },
     "185": {
         "found_egg": false,
@@ -2061,7 +2245,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 185,
-        "name_de": "Mogelbaum"
+        "name_de": "Mogelbaum",
+        "name": "Sudowoodo"
     },
     "186": {
         "found_egg": false,
@@ -2072,7 +2257,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 186,
-        "name_de": "Quaxo"
+        "name_de": "Quaxo",
+        "name": "Politoed"
     },
     "187": {
         "found_egg": false,
@@ -2083,7 +2269,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 187,
-        "name_de": "Hoppspross"
+        "name_de": "Hoppspross",
+        "name": "Hoppip"
     },
     "188": {
         "found_egg": false,
@@ -2094,7 +2281,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 188,
-        "name_de": "Hubelupf"
+        "name_de": "Hubelupf",
+        "name": "Skiploom"
     },
     "189": {
         "found_egg": false,
@@ -2105,7 +2293,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 189,
-        "name_de": "Papungha"
+        "name_de": "Papungha",
+        "name": "Jumpluff"
     },
     "190": {
         "found_egg": false,
@@ -2116,7 +2305,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 190,
-        "name_de": "Griffel"
+        "name_de": "Griffel",
+        "name": "Aipom"
     },
     "191": {
         "found_egg": true,
@@ -2127,7 +2317,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 191,
-        "name_de": "Sonnkern"
+        "name_de": "Sonnkern",
+        "name": "Sunkern"
     },
     "192": {
         "found_egg": false,
@@ -2138,7 +2329,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 192,
-        "name_de": "Sonnflora"
+        "name_de": "Sonnflora",
+        "name": "Sunflora"
     },
     "193": {
         "found_egg": false,
@@ -2149,7 +2341,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 193,
-        "name_de": "Yanma"
+        "name_de": "Yanma",
+        "name": "Yanma"
     },
     "194": {
         "found_egg": false,
@@ -2160,7 +2353,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 194,
-        "name_de": "Felino"
+        "name_de": "Felino",
+        "name": "Wooper"
     },
     "195": {
         "found_egg": false,
@@ -2171,7 +2365,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 195,
-        "name_de": "Morlord"
+        "name_de": "Morlord",
+        "name": "Quagsire"
     },
     "196": {
         "found_egg": false,
@@ -2182,7 +2377,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 196,
-        "name_de": "Psiana"
+        "name_de": "Psiana",
+        "name": "Espeon"
     },
     "197": {
         "found_egg": false,
@@ -2193,7 +2389,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 197,
-        "name_de": "Nachtara"
+        "name_de": "Nachtara",
+        "name": "Umbreon"
     },
     "198": {
         "found_egg": false,
@@ -2204,7 +2401,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 198,
-        "name_de": "Kramurx"
+        "name_de": "Kramurx",
+        "name": "Murkrow"
     },
     "199": {
         "galan_shiny": false,
@@ -2216,7 +2414,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 199,
-        "name_de": "Laschoking"
+        "name_de": "Laschoking",
+        "name": "Slowking"
     },
     "200": {
         "found_egg": false,
@@ -2227,7 +2426,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 200,
-        "name_de": "Traunfugil"
+        "name_de": "Traunfugil",
+        "name": "Misdreavus"
     },
     "201": {
         "found_egg": false,
@@ -2238,7 +2438,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 201,
-        "name_de": "Icognito"
+        "name_de": "Icognito",
+        "name": "Unown"
     },
     "202": {
         "found_egg": false,
@@ -2249,7 +2450,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 202,
-        "name_de": "Woingenau"
+        "name_de": "Woingenau",
+        "name": "Wobbuffet"
     },
     "203": {
         "found_egg": false,
@@ -2260,7 +2462,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 203,
-        "name_de": "Girafarig"
+        "name_de": "Girafarig",
+        "name": "Girafarig"
     },
     "204": {
         "found_egg": true,
@@ -2271,7 +2474,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 204,
-        "name_de": "Tannza"
+        "name_de": "Tannza",
+        "name": "Pineco"
     },
     "205": {
         "found_egg": false,
@@ -2282,7 +2486,8 @@
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 205,
-        "name_de": "Forstellka"
+        "name_de": "Forstellka",
+        "name": "Forretress"
     },
     "206": {
         "found_egg": false,
