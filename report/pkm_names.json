@@ -3245,11 +3245,11 @@
         "name": "Ninjatom"
     },
     "293": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 293,
@@ -3257,7 +3257,7 @@
     },
     "294": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -3268,7 +3268,7 @@
     },
     "295": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -3960,18 +3960,18 @@
         "name": "Tropius"
     },
     "358": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 358,
         "name": "Palimpalim"
     },
     "359": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
         "found_raid": true,
         "found_research": true,
@@ -5469,7 +5469,7 @@
     "495": {
         "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -5500,11 +5500,11 @@
         "name": "Serpiroyal"
     },
     "498": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 498,
@@ -5512,7 +5512,7 @@
     },
     "499": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -5523,7 +5523,7 @@
     },
     "500": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -5863,11 +5863,11 @@
         "name": "Stalobor"
     },
     "531": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 531,
@@ -5907,11 +5907,11 @@
         "name": "Meistagrif"
     },
     "535": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 535,
@@ -5919,7 +5919,7 @@
     },
     "536": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -5930,7 +5930,7 @@
     },
     "537": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -5940,22 +5940,22 @@
         "name": "Branawarz"
     },
     "538": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 538,
         "name": "Jiutesto"
     },
     "539": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 539,
@@ -6768,7 +6768,7 @@
         "name": "Maxax"
     },
     "613": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
         "found_raid": true,
         "found_research": true,
@@ -6923,7 +6923,7 @@
         "name": "Bisofank"
     },
     "627": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
         "found_raid": true,
         "found_research": true,
