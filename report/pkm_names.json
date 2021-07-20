@@ -1148,7 +1148,7 @@
         "found_egg": false,
         "found_evolution": true,
         "found_raid": false,
-        "found_research": false,
+        "found_research": true,
         "found_wild": false,
         "found_crypto": false,
         "found_crypto_Shiny": false,
