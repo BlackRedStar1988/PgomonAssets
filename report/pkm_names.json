@@ -1789,9 +1789,9 @@
         "name": "Impergator"
     },
     "161": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -1835,7 +1835,7 @@
     "165": {
         "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -1888,9 +1888,9 @@
         "name": "Iksbat"
     },
     "170": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -1912,8 +1912,8 @@
     "172": {
         "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
+        "found_raid": true,
+        "found_research": true,
         "found_wild": false,
         "found_crypto": false,
         "found_crypto_Shiny": false,
@@ -1923,8 +1923,8 @@
     "173": {
         "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
+        "found_raid": true,
+        "found_research": true,
         "found_wild": false,
         "found_crypto": false,
         "found_crypto_Shiny": false,
@@ -1934,8 +1934,8 @@
     "174": {
         "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
+        "found_raid": true,
+        "found_research": true,
         "found_wild": false,
         "found_crypto": false,
         "found_crypto_Shiny": false,
@@ -1945,8 +1945,8 @@
     "175": {
         "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
+        "found_raid": true,
+        "found_research": true,
         "found_wild": false,
         "found_crypto": false,
         "found_crypto_Shiny": false,
@@ -1967,7 +1967,7 @@
     "177": {
         "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -1989,7 +1989,7 @@
     "179": {
         "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2011,9 +2011,9 @@
     "181": {
         "found_egg": false,
         "found_evolution": true,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 181,
@@ -2023,7 +2023,7 @@
         "found_egg": false,
         "found_evolution": true,
         "found_raid": false,
-        "found_research": false,
+        "found_research": true,
         "found_wild": false,
         "found_crypto": false,
         "found_crypto_Shiny": false,
@@ -2031,9 +2031,9 @@
         "name": "Blubella"
     },
     "183": {
-        "found_egg": false,
-        "found_evolution": true,
-        "found_raid": false,
+        "found_egg": true,
+        "found_evolution": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2055,7 +2055,7 @@
     "185": {
         "found_egg": false,
         "found_evolution": true,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2067,7 +2067,7 @@
         "found_egg": false,
         "found_evolution": true,
         "found_raid": false,
-        "found_research": false,
+        "found_research": true,
         "found_wild": false,
         "found_crypto": false,
         "found_crypto_Shiny": false,
@@ -2075,11 +2075,11 @@
         "name": "Quaxo"
     },
     "187": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 187,
@@ -2087,7 +2087,7 @@
     },
     "188": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -2098,7 +2098,7 @@
     },
     "189": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -2108,9 +2108,9 @@
         "name": "Papungha"
     },
     "190": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2141,9 +2141,9 @@
         "name": "Sonnflora"
     },
     "193": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2152,9 +2152,9 @@
         "name": "Yanma"
     },
     "194": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2176,8 +2176,8 @@
     "196": {
         "found_egg": false,
         "found_evolution": true,
-        "found_raid": false,
-        "found_research": false,
+        "found_raid": true,
+        "found_research": true,
         "found_wild": false,
         "found_crypto": false,
         "found_crypto_Shiny": false,
@@ -2187,8 +2187,8 @@
     "197": {
         "found_egg": false,
         "found_evolution": true,
-        "found_raid": false,
-        "found_research": false,
+        "found_raid": true,
+        "found_research": true,
         "found_wild": false,
         "found_crypto": false,
         "found_crypto_Shiny": false,
@@ -2196,9 +2196,9 @@
         "name": "Nachtara"
     },
     "198": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2210,8 +2210,8 @@
         "galan_shiny": false,
         "found_egg": false,
         "found_evolution": true,
-        "found_raid": false,
-        "found_research": false,
+        "found_raid": true,
+        "found_research": true,
         "found_wild": false,
         "found_crypto": false,
         "found_crypto_Shiny": false,
@@ -2219,9 +2219,9 @@
         "name": "Laschoking"
     },
     "200": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2232,7 +2232,7 @@
     "201": {
         "found_egg": false,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": false,
         "found_wild": true,
         "found_crypto": false,
@@ -2243,7 +2243,7 @@
     "202": {
         "found_egg": false,
         "found_evolution": true,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2252,11 +2252,11 @@
         "name": "Woingenau"
     },
     "203": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 203,
@@ -2285,9 +2285,9 @@
         "name": "Forstellka"
     },
     "206": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2296,9 +2296,9 @@
         "name": "Dummisel"
     },
     "207": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": true,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2309,7 +2309,7 @@
     "208": {
         "found_egg": false,
         "found_evolution": true,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": false,
         "found_wild": false,
         "found_crypto": false,
@@ -2320,7 +2320,7 @@
     "209": {
         "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2342,7 +2342,7 @@
     "211": {
         "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2353,8 +2353,8 @@
     "212": {
         "found_egg": false,
         "found_evolution": true,
-        "found_raid": false,
-        "found_research": false,
+        "found_raid": true,
+        "found_research": true,
         "found_wild": false,
         "found_crypto": false,
         "found_crypto_Shiny": false,
@@ -2362,9 +2362,9 @@
         "name": "Scherox"
     },
     "213": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2384,9 +2384,9 @@
         "name": "Skaraborn"
     },
     "215": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2395,9 +2395,9 @@
         "name": "Sniebel"
     },
     "216": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2439,9 +2439,9 @@
         "name": "Magcargo"
     },
     "220": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2464,20 +2464,20 @@
         "galan_shiny": false,
         "found_egg": false,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 222,
         "name": "Corasonn"
     },
     "223": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 223,
@@ -2485,7 +2485,7 @@
     },
     "224": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -2495,7 +2495,7 @@
         "name": "Octillery"
     },
     "225": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
         "found_raid": true,
         "found_research": true,
@@ -2507,19 +2507,19 @@
     },
     "226": {
         "found_egg": false,
-        "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_evolution": true,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 226,
         "name": "Mantax"
     },
     "227": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2530,7 +2530,7 @@
     "228": {
         "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2541,9 +2541,9 @@
     "229": {
         "found_egg": false,
         "found_evolution": true,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 229,
@@ -2561,11 +2561,11 @@
         "name": "Seedraking"
     },
     "231": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 231,
@@ -2573,7 +2573,7 @@
     },
     "232": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -2594,9 +2594,9 @@
         "name": "Porygon2"
     },
     "234": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -2616,7 +2616,7 @@
         "name": "Farbeagle"
     },
     "236": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
         "found_raid": false,
         "found_research": false,
@@ -2628,10 +2628,10 @@
     },
     "237": {
         "found_egg": false,
-        "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_evolution": true,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 237,
@@ -2684,9 +2684,9 @@
     "242": {
         "found_egg": false,
         "found_evolution": true,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 242,
