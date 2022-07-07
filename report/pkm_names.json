@@ -5533,11 +5533,11 @@
         "name": "Flambirex"
     },
     "501": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 501,
@@ -5545,7 +5545,7 @@
     },
     "502": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -5556,7 +5556,7 @@
     },
     "503": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -5643,11 +5643,11 @@
         "name": "Kleoparda"
     },
     "511": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 511,
@@ -5655,7 +5655,7 @@
     },
     "512": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -5665,11 +5665,11 @@
         "name": "Vegichita"
     },
     "513": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 513,
@@ -5677,7 +5677,7 @@
     },
     "514": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -5687,11 +5687,11 @@
         "name": "Grillchita"
     },
     "515": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 515,
@@ -5699,7 +5699,7 @@
     },
     "516": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
