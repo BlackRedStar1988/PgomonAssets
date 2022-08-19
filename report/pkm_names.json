@@ -6823,12 +6823,12 @@
         "name": "Hydragil"
     },
     "618": {
-        "galan_shiny": false,
-        "found_egg": false,
+        "galan_shiny": true,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 618,
