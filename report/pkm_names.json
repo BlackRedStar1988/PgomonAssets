@@ -5038,11 +5038,11 @@
         "name": "Venuflibis"
     },
     "456": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 456,
@@ -5050,7 +5050,7 @@
     },
     "457": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -5060,7 +5060,7 @@
         "name": "Lumineon"
     },
     "458": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
         "found_raid": false,
         "found_research": false,
@@ -5071,9 +5071,9 @@
         "name": "Mantirps"
     },
     "459": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -5621,11 +5621,11 @@
         "name": "Bissbark"
     },
     "509": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 509,
@@ -5633,7 +5633,7 @@
     },
     "510": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -6206,10 +6206,10 @@
         "name": "Symvolara"
     },
     "562": {
-        "galan_shiny": false,
-        "found_egg": false,
+        "galan_shiny": true,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -6702,11 +6702,11 @@
         "name": "Megalon"
     },
     "607": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 607,
@@ -6714,7 +6714,7 @@
     },
     "608": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -6725,7 +6725,7 @@
     },
     "609": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -6890,11 +6890,11 @@
         "name": "Golgantes"
     },
     "624": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 624,
@@ -6902,7 +6902,7 @@
     },
     "625": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -7836,11 +7836,11 @@
         "name": "Trombork"
     },
     "710": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 710,
@@ -7848,7 +7848,7 @@
     },
     "711": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -7858,11 +7858,11 @@
         "name": "Pumpdjinn"
     },
     "712": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 712,
@@ -7870,7 +7870,7 @@
     },
     "713": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -7880,11 +7880,11 @@
         "name": "Arktilas"
     },
     "714": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 714,
@@ -7892,7 +7892,7 @@
     },
     "715": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -8331,11 +8331,11 @@
         "name": "Mantidea"
     },
     "755": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 755,
@@ -8343,7 +8343,7 @@
     },
     "756": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -8375,11 +8375,11 @@
         "name": "Amfira"
     },
     "759": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 759,
@@ -8387,7 +8387,7 @@
     },
     "760": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
