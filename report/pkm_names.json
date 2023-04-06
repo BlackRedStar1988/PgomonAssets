@@ -3773,11 +3773,11 @@
         "name": "Welsar"
     },
     "341": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 341,
@@ -3785,7 +3785,7 @@
     },
     "342": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -3795,7 +3795,7 @@
         "name": "Krebutack"
     },
     "343": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
         "found_raid": false,
         "found_research": true,
@@ -6515,11 +6515,11 @@
         "name": "Cavalanzas"
     },
     "590": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 590,
@@ -6527,7 +6527,7 @@
     },
     "591": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
