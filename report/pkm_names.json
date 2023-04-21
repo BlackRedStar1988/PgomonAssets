@@ -5786,9 +5786,9 @@
         "name": "Zebritz"
     },
     "524": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
+        "found_raid": true,
         "found_research": true,
         "found_wild": true,
         "found_crypto": false,
@@ -5841,11 +5841,11 @@
         "name": "Fletiamo"
     },
     "529": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 529,
@@ -5853,7 +5853,7 @@
     },
     "530": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
