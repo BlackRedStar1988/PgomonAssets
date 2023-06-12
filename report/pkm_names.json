@@ -7594,11 +7594,11 @@
         "name": "Calamanero"
     },
     "688": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 688,
@@ -7606,7 +7606,7 @@
     },
     "689": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
@@ -7638,11 +7638,11 @@
         "name": "Tandrak"
     },
     "692": {
-        "found_egg": false,
+        "found_egg": true,
         "found_evolution": false,
-        "found_raid": false,
-        "found_research": false,
-        "found_wild": false,
+        "found_raid": true,
+        "found_research": true,
+        "found_wild": true,
         "found_crypto": false,
         "found_crypto_Shiny": false,
         "id": 692,
@@ -7650,7 +7650,7 @@
     },
     "693": {
         "found_egg": false,
-        "found_evolution": false,
+        "found_evolution": true,
         "found_raid": false,
         "found_research": false,
         "found_wild": false,
